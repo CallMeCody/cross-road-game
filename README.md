@@ -1,2 +1,2 @@
 # cross-road-game
-cross road game made with javascript
+A simple cross road game made with Javascript and Phaser 3
